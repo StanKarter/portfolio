@@ -1,4 +1,16 @@
 body {
     background-color: #ccc;
-    color: darkturquoise;
+    color: lightpink;
+}
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.title {
+    font-family: serif;
+    font-size: 5vw;
 }
