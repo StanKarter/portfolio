@@ -1,6 +1,6 @@
 body {
     background-color: #ccc;
-    color: lightpink;
+    color: #000;
 }
 .wrapper {
     width: 100vw;
@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
+overflow: hidden;
 }
 .title {
     font-family: serif;
